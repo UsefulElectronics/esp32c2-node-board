@@ -1,0 +1,169 @@
+Added Component: Designator=C?(CAP: 0603)
+Add component (AddParameter): Name = "Component Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ru.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10B104KA8NNNL?qs=xZ%2FP%252Ba9zWqaq7Qa7Zbe03w%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10B104KA8NNNL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CL10B104KA8NNNL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0603)
+Add component (AddParameter): Name = "Component Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ru.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10B104KA8NNNL?qs=xZ%2FP%252Ba9zWqaq7Qa7Zbe03w%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10B104KA8NNNL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CL10B104KA8NNNL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0603)
+Add component (AddParameter): Name = "Component Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ru.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10B104KA8NNNL?qs=xZ%2FP%252Ba9zWqaq7Qa7Zbe03w%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10B104KA8NNNL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CL10B104KA8NNNL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q?(CH240C)
+Added Component: Designator=R?(RES: 0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/YAGEO/RC0603FR-075K1L?qs=gt6vzsuosg2jUUwxnI2PJQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-075K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0603)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/YAGEO/RC0603FR-075K1L?qs=gt6vzsuosg2jUUwxnI2PJQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-075K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0603)
+Add component (AddParameter): Name = "Component Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ru.mouser.com/ProductDetail/YAGEO/RC0603FR-0710KL?qs=%2Fha2pyFaduhXXNW8qwNUNiw8kLtHezvba1btfWQYTvQl0E5hN277pA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0603)
+Add component (AddParameter): Name = "Component Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ru.mouser.com/ProductDetail/YAGEO/RC0603FR-0710KL?qs=%2Fha2pyFaduhXXNW8qwNUNiw8kLtHezvba1btfWQYTvQl0E5hN277pA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=(SOT223)
+Added Component: Designator=VT?(SOT23)
+Add component (AddParameter): Name = "Component Type"; Value = "Transistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/onsemi/BC847BLT1G?qs=vNc2DXHODiLAH81QlkcRzw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BC847BLT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BC847BLT1G"; VariantName = "[No Variations]"
+Added Component: Designator=VT?(SOT23)
+Add component (AddParameter): Name = "Component Type"; Value = "Transistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/onsemi/BC847BLT1G?qs=vNc2DXHODiLAH81QlkcRzw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BC847BLT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BC847BLT1G"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: TYPE-C-31-M-12 (USB))
+Add component (AddParameter): Name = "HelpURL"; Value = "https://lcsc.com/product-detail/USB-Type-C_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Korean Hroparts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Type C, 16 pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TYPE-C-31-M-12"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: PLS-3)
+Add component (AddParameter): Name = "Component Type"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: PLS-3)
+Add component (AddParameter): Name = "Component Type"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=-2
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=Q?-4
+Added Pin To Net: NetName=3V3 Pin=Q?-16
+Added Pin To Net: NetName=3V3 Pin=X?-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=-3
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Net: Name=5V
+Added Pin To Net: NetName=BOOT Pin=X?-3
+Added Net: Name=BOOT
+Added Pin To Net: NetName=DTR Pin=Q?-13
+Added Pin To Net: NetName=DTR Pin=R?-1
+Added Pin To Net: NetName=DTR Pin=VT?-2
+Added Net: Name=DTR
+Added Pin To Net: NetName=GND Pin=-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=Q?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=X?-1
+Added Pin To Net: NetName=GND Pin=X?-B1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=X?-B5
+Added Net: Name=NetR?_2
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Pin To Net: NetName=RST Pin=VT?-3
+Added Pin To Net: NetName=RST Pin=X?-2
+Added Net: Name=RST
+Added Pin To Net: NetName=RTS Pin=Q?-14
+Added Pin To Net: NetName=RTS Pin=R?-1
+Added Pin To Net: NetName=RTS Pin=VT?-2
+Added Net: Name=RTS
+Added Pin To Net: NetName=RX Pin=Q?-3
+Added Pin To Net: NetName=RX Pin=X?-3
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=Q?-2
+Added Pin To Net: NetName=TX Pin=X?-1
+Added Net: Name=TX
+Added Pin To Net: NetName=USB+ Pin=Q?-5
+Added Pin To Net: NetName=USB+ Pin=X?-A6
+Added Pin To Net: NetName=USB+ Pin=X?-B6
+Added Net: Name=USB+
+Added Pin To Net: NetName=USB- Pin=Q?-6
+Added Pin To Net: NetName=USB- Pin=X?-A7
+Added Pin To Net: NetName=USB- Pin=X?-B7
+Added Net: Name=USB-

@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAP: 0603 New Footprint=CAP: 0603
+Change Component Footprint: Designator=C2 Old Footprint=CAP: 0603 New Footprint=CAP: 0603
+Change Component Footprint: Designator=C3 Old Footprint=CAP: 0603 New Footprint=CAP: 0603
+Change Component Footprint: Designator=R1 Old Footprint=RES: 0603 New Footprint=RES: 0603
+Change Component Footprint: Designator=R2 Old Footprint=RES: 0603 New Footprint=RES: 0603
+Change Component Footprint: Designator=R3 Old Footprint=RES: 0603 New Footprint=RES: 0603
+Change Component Footprint: Designator=R4 Old Footprint=RES: 0603 New Footprint=RES: 0603
+Change Component Footprint: Designator=VT1 Old Footprint=SOT23 New Footprint=SOT23
+Change Component Footprint: Designator=VT2 Old Footprint=SOT23 New Footprint=SOT23
+Added Pin To Net: NetName=GND Pin=X1-A1

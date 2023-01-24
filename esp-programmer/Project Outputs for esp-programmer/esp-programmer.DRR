@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: esp-programmer.PcbDoc   1/24/2023  11:33:34 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : esp-programmer-RoundHoles.TXT
+ASCII SlotHoles File : esp-programmer-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.4mm (16mil)                                             Round             35        PTH        114.53mm (4.51inch)
+T2      0.4mm (16mil)                                             Slot              4         PTH        37.04mm (1.46inch)
+T3      0.6mm (24mil)                                             Round             2         PTH        5.78mm (0.23inch)
+T4      1.1mm (43mil)                                             Round             6         PTH        12.70mm (0.50inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              47
+
+Total Processing Time (hh:mm:ss) : 00:00:00

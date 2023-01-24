@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [esp-programmer.PrjPcb]
+   Generated File[esp-programmer-RoundHoles.TXT]
+   Generated File[esp-programmer-SlotHoles.TXT]
+   Generated File[esp-programmer.LDP]
+   Generated File[esp-programmer.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:33:34 AM On 1/24/2023

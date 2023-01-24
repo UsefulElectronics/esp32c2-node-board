@@ -1,0 +1,73 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAP: 0603 New Footprint=CAP: 0603
+Change Component Footprint: Designator=C2 Old Footprint=CAP: 0603 New Footprint=CAP: 0603
+Change Component Footprint: Designator=C3 Old Footprint=CAP: 0603 New Footprint=CAP: 0603
+Change Component Footprint: Designator=C4 Old Footprint=CAP: 0603 New Footprint=CAP: 0603
+Change Component Footprint: Designator=C5 Old Footprint=CAP: 0603 New Footprint=CAP: 0603
+Added Component: Designator=X1(CON: PLS-3)
+Add component (AddParameter): Name = "Component Type"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=X2(CON: PLS-3)
+Add component (AddParameter): Name = "Component Type"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=X3(CON: PLS-3)
+Add component (AddParameter): Name = "Component Type"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=X4(CON: PLS-3)
+Add component (AddParameter): Name = "Component Type"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=X5(CON: PLS-3)
+Add component (AddParameter): Name = "Component Type"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=X6(CON: PLS-3)
+Add component (AddParameter): Name = "Component Type"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=NetM1_15 Pin=X1-3
+Added Pin To Net: NetName=NetM1_14 Pin=X2-1
+Added Pin To Net: NetName=3V3 Pin=X2-3
+Added Pin To Net: NetName=GND Pin=X3-1
+Added Pin To Net: NetName=NetM1_2 Pin=X3-2
+Added Pin To Net: NetName=NetM1_3 Pin=X3-3
+Added Pin To Net: NetName=GND Pin=X4-1
+Added Pin To Net: NetName=NetM1_10 Pin=X4-2
+Added Pin To Net: NetName=NetM1_9 Pin=X4-3
+Added Pin To Net: NetName=NetM1_4 Pin=X5-1
+Added Pin To Net: NetName=5V Pin=X5-2
+Added Pin To Net: NetName=NetM1_5 Pin=X5-3
+Added Pin To Net: NetName=NetM1_8 Pin=X6-3
+Added Pin To Net: NetName=NetM1_6 Pin=M1-6
+Added Pin To Net: NetName=NetM1_6 Pin=X6-1
+Added Net: Name=NetM1_6
+Added Pin To Net: NetName=NetM1_7 Pin=M1-7
+Added Pin To Net: NetName=NetM1_7 Pin=X6-2
+Added Net: Name=NetM1_7
+Added Pin To Net: NetName=NetM1_13 Pin=M1-13
+Added Pin To Net: NetName=NetM1_13 Pin=X2-2
+Added Net: Name=NetM1_13
+Added Pin To Net: NetName=NetM1_17 Pin=M1-17
+Added Pin To Net: NetName=NetM1_17 Pin=X1-1
+Added Net: Name=NetM1_17

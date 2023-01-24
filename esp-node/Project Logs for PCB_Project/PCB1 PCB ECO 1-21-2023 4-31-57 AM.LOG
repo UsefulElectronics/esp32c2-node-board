@@ -1,0 +1,32 @@
+Added Component: Designator=D1(8-SOIC)
+Add component (AddParameter): Name = "Component Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/microchip-technology/AT24CM02-SSHD-T/5313450"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AT24CM02-SSHD-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "AT24CM02-SSHD-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(SENSOR: LAH 100-P)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Vacuumschmelze/T60404-N4646-X412?qs=ePbE9GiMmvVUnsD%2Fqj9Ybg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "LEM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "33.25x21 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LAH 100-P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_4 Pin=D1-4
+Added Pin To Net: NetName=NetD1_4 Pin=D?-3
+Added Net: Name=NetD1_4
+Added Pin To Net: NetName=NetD1_7 Pin=D1-7
+Added Pin To Net: NetName=NetD1_7 Pin=D?-4
+Added Net: Name=NetD1_7
+Added Pin To Net: NetName=NetD1_8 Pin=D1-8
+Added Pin To Net: NetName=NetD1_8 Pin=D?-1
+Added Pin To Net: NetName=NetD1_8 Pin=D?-1
+Added Pin To Net: NetName=NetD1_8 Pin=D?-1
+Added Net: Name=NetD1_8

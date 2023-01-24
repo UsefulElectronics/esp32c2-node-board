@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=VD1 Old Footprint=LED: 0603G New Footprint=LED: 0603G
+Change Component Footprint: Designator=VD2 Old Footprint=LED: 0603R New Footprint=LED: 0603R
+Change Component Footprint: Designator=R5 Old Footprint=RES: 0603 New Footprint=RES: 0603
+Change Component Footprint: Designator=R6 Old Footprint=RES: 0603 New Footprint=RES: 0603
+Added Pin To Net: NetName=GND Pin=C2-2
